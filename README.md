@@ -5,3 +5,5 @@ All MTG(Magic: The Gathering) texts, names, terms, images, rules and trademarks 
 and its parent Company, Hasbro, Inc. ©
 
 The rest of the code is GPL v3.0.
+
+## Click [here](https://guy-kaplan.github.io/MTGappPrerelease/) to see the HTML app
